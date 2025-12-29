@@ -25,6 +25,7 @@ wheels/
 
 # Streamlit
 .streamlit/
+streamlit.log
 
 # IDE
 .vscode/
